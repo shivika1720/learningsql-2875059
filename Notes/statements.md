@@ -1,6 +1,6 @@
 # SQL Statements
 
-This document provides a list of SQL statements used in the course _Learning SQL Programming_ from LinkedIn Learning.
+ This document provides a list of SQL statements used in the course _Learning SQL Programming_ from LinkedIn Learning.
 
 Note that this list contains statements which are improper (they have syntax errors) and statements which are incorrect (they do not achieve the desired goal).
 
